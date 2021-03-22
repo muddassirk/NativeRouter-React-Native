@@ -1,0 +1,12 @@
+{
+  "name": "ckass3",
+  "displayName": "ckass3",
+  "expo": {
+    "name": "ckass3",
+    "slug": "ckass3",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
